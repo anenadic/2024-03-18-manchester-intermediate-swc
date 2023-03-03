@@ -273,7 +273,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
-
 <h2 id="setup">Setup</h2>
 
 <p>
@@ -282,6 +281,12 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <p>
   If you are attending remotely, please make sure you also have the <a target="_blank" href="https://support.zoom.us/hc/en-us/sections/200704559-Installation">Zoom video conferencing tool</a> installed.
+</p>
+<hr/>
+
+<h2 id="material">Course Material</h2>
+<p>
+  <a target="_blank" href="https://uomresearchit.github.io/python-intermediate-development-nerc/index.html">Course material</a> is available online.
 </p>
 <hr/>
 
