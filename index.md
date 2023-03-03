@@ -281,7 +281,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 
 <p>
-  If you are attending remotely, please make sure you have [Zoom video conferencing tool](https://support.zoom.us/hc/en-us/sections/200704559-Installation) installed as well.
+  If you are attending remotely, please make sure you also have the <a target="_blank" href="https://support.zoom.us/hc/en-us/sections/200704559-Installation">Zoom video conferencing tool</a> installed.
 </p>
 <hr/>
 
