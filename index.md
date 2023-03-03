@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "University of Manchester"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "University Place Room 6.212, 176 Oxford Rd, Manchester M13 9PL"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Room 6.212 University Place, University of Manchester"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "Room 6.212 University Place, 176 Oxford Rd, Manchester M13 9PL"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "53.46689138277927"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -95,7 +95,6 @@ the pitch.
 
 {% if site.pilot %}
 This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language. It focusses on researchers from the [Natural Environment Research Council (NERC)](https://www.ukri.org/councils/nerc/) domain as it uses the dataset from the river catchment study project but is general enough to be attended by participants without this specialism.
-and uses 
 {% endif %}
 
 {% comment %}
@@ -191,20 +190,7 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
+  accessible to everybody. The teaching room is wheelchair accessible and accessible restrooms are available.
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
