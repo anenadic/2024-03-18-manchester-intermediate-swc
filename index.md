@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Room 6.212 University Place, University of Manchester"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Room 6.212 University Place, University of Manchester (Hybrid)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "Room 6.212 University Place, 176 Oxford Rd, Manchester M13 9PL"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -130,11 +130,11 @@ address.
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}.
-  Get directions with
+  For in person participants: {{page.address}} (get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>). Participants joining online will receive
+  separate joining instructions via email.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
