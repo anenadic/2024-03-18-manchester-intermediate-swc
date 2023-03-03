@@ -94,7 +94,8 @@ the pitch.
 {% endif %}
 
 {% if site.pilot %}
-This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
+This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language. It focusses on researchers from the [Natural Environment Research Council (NERC)](https://www.ukri.org/councils/nerc/) domain as it uses the dataset from the river catchment study project but is general enough to be attended by participants without this specialism.
+and uses 
 {% endif %}
 
 {% comment %}
