@@ -277,7 +277,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <h2 id="setup">Setup</h2>
 
 <p>
-  You will need the [following software installed](https://uomresearchit.github.io/python-intermediate-development-nerc/setup.html) and working correctly on your system to be able to follow the course.
+  You will need the <a target="_blank" href="https://uomresearchit.github.io/python-intermediate-development-nerc/setup.html">following software installed</a> and working correctly on your system to be able to follow the course.
 </p>
 
 <p>
