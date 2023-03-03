@@ -199,8 +199,8 @@ special instructions.
 {% endif %}
 
 <p id="coc">
-  <strong>Code of Conduct</strong>
-Everyone who participates in the workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. Please get in touch with the workshop contact person in case of any breaches.
+  <strong>Code of Conduct:</strong>
+Everyone who participates in the workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. Please get in touch with the workshop contact in case of any incidents.
 </p>
 
 {% comment %}
