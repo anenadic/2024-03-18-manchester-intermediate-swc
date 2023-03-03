@@ -198,6 +198,11 @@ special instructions.
 </p>
 {% endif %}
 
+<p id="coc">
+  <strong>Code of Conduct</strong>
+Everyone who participates in the workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. Please get in touch with the workshop contact person in case of any breaches.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
@@ -223,12 +228,6 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<p id="roles">
-  <strong>Roles:</strong>
-  To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
-</p>
-
 {% comment %}
 WHO CAN ATTEND?
 
@@ -251,23 +250,6 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <hr/>
-
-{% comment%}
-CODE OF CONDUCT
-{% endcomment %}
-<h2 id="code-of-conduct">Code of Conduct</h2>
-
-<p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
-</p>
-
-<p class="text-center">
-  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
-    <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-  </a>
-</p>
-<hr/>
-
 
 {% comment %}
 Collaborative Notes
