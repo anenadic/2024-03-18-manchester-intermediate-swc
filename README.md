@@ -1,7 +1,7 @@
-## NERC intermediate research software skills workshop
+## NERC intermediate research software skills for Earth sciences workshop, 18-22 March 2024, Manchester
 
-Date: 27-31 March 2023
+Date: 18-22 March 2023
 
 Location: Manchester
 
-Website: https://uk-carpentries.github.io/2023-03-27-manchester-intermediate-swc/ 
+Website: https://anenadic.github.io/2024-03-18-manchester-intermediate-swc/
