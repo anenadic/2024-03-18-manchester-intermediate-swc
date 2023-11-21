@@ -86,7 +86,7 @@ workshop is only open to people from a particular institution.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed at the <a href="https://uomresearchit.github.io/python-intermediate-development-nerc/setup.html">setup page</a>).
+  They should have a few specific software packages installed (listed at the <a href="https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/setup.html">setup page</a>).
 </p>
 
 <p id="accessibility">
@@ -133,7 +133,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2 id="setup">Setup</h2>
 <p>
-  You will need the <a target="_blank" href="https://uomresearchit.github.io/python-intermediate-development-nerc/setup.html">following software installed</a> and working correctly on your system to be able to follow the course.
+  You will need the <a target="_blank" href="https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/setup.html">following software installed</a> and working correctly on your system to be able to follow the course.
 </p>
 
 <p>
@@ -143,7 +143,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2 id="material">Course Material</h2>
 <p>
-  <a target="_blank" href="https://uomresearchit.github.io/python-intermediate-development-nerc/index.html">Course material</a> is available online.
+  <a target="_blank" href="https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/index.html">Course material</a> is available online.
 </p>
 <hr/>
 
