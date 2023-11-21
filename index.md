@@ -136,9 +136,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
   You will need the <a target="_blank" href="https://carpentries-incubator.github.io/python-intermediate-development-earth-sciences/setup.html">following software installed</a> and working correctly on your system to be able to follow the course.
 </p>
 
-<p>
-  If you are attending remotely, please make sure you also have the <a target="_blank" href="https://support.zoom.us/hc/en-us/sections/200704559-Installation">Zoom video conferencing tool</a> installed.
-</p>
 <hr/>
 
 <h2 id="material">Course Material</h2>
