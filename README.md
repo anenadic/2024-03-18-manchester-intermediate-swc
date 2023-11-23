@@ -4,4 +4,4 @@ Date: 18-22 March 2023
 
 Location: Manchester
 
-Website: https://anenadic.github.io/2024-03-18-manchester-intermediate-swc/
+Website: https://softwaresaved.github.io/2024-03-18-manchester-intermediate-swc/
