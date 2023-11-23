@@ -144,7 +144,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 
-{% commment %}
 <!--
 <h2 id="schedule">Schedule</h2>
 
@@ -152,4 +151,3 @@ The schedule below is approximate and subject to change.
 
 {% include custom-schedule.html %}
 -->
-{% endcommment %}
